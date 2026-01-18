@@ -1,0 +1,5 @@
+print("hello world")
+print("annas")
+print("nurdin")
+print(35421)
+print("annas " * 3)
